@@ -1,0 +1,5 @@
+mesop
+gunicorn
+anthropic
+google-generativeai
+python-dotenv
